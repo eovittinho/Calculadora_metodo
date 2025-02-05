@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alunos\\OneDrive\\Documentos\\vittinho\\Calculadora_metodo\\Calculadora\\Calculadora.csproj",
+      "projectUniqueName": "C:\\Users\\Alunos\\OneDrive\\Documentos\\vittinho\\Calculadora_metodo\\Calculadora.csproj",
       "projectName": "Calculadora",
-      "projectPath": "C:\\Users\\Alunos\\OneDrive\\Documentos\\vittinho\\Calculadora_metodo\\Calculadora\\Calculadora.csproj",
+      "projectPath": "C:\\Users\\Alunos\\OneDrive\\Documentos\\vittinho\\Calculadora_metodo\\Calculadora.csproj",
       "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alunos\\OneDrive\\Documentos\\vittinho\\Calculadora_metodo\\Calculadora\\obj\\",
+      "outputPath": "C:\\Users\\Alunos\\OneDrive\\Documentos\\vittinho\\Calculadora_metodo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"
